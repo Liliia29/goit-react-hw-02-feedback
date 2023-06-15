@@ -6,5 +6,4 @@ export const Container = styled.div`
     margin: 0;
     row-gap: 35px;
     padding: 35px;
-}
 `;

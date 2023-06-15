@@ -9,11 +9,10 @@ export const ButtonWrapper = styled.div`
 `;
 
 export const Button = styled.button`
-padding: 5px 8px;
-min-width: 50px;
-cursor: pointer;
+    padding: 5px 8px;
+    min-width: 50px;
+    cursor: pointer;
 
-border-color: forestgreen;
-border-radius: 4px;
-
+    border-color: forestgreen;
+    border-radius: 4px;
 `;
